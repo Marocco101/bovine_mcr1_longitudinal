@@ -1,0 +1,20 @@
+-------------------------------------------------------
+Analysis Target: TMP-SMX (Mix) vs Colistin
+-------------------------------------------------------
+  Overall (2006-2024): r = -0.15 (p = 0.53 )
+  Phase I (2006-2016): r = 0.85 [Potential Co-selection Era]
+  Phase II (2017-2024): r = 0.51 [Potential Decoupling/Chromosomal Era]
+> calc_cor_shift(df_trend, "TMP", "Trimethoprim")
+-------------------------------------------------------
+Analysis Target: Trimethoprim vs Colistin
+-------------------------------------------------------
+  Overall (2006-2024): r = -0.42 (p = 0.074 )
+  Phase I (2006-2016): r = 0.2 [Potential Co-selection Era]
+  Phase II (2017-2024): r = 0.34 [Potential Decoupling/Chromosomal Era]
+> calc_cor_shift(df_trend, "Sulfa", "Sulfamides")
+-------------------------------------------------------
+Analysis Target: Sulfamides vs Colistin
+-------------------------------------------------------
+  Overall (2006-2024): r = 0.51 (p = 0.026 )
+  Phase I (2006-2016): r = 0.44 [Potential Co-selection Era]
+  Phase II (2017-2024): r = 0.3 [Potential Decoupling/Chromosomal Era]

@@ -64,9 +64,9 @@ Our segmented correlation analysis reveals a significant structural break in the
 
 | Antibiotic | Overall (2006-2024) | Phase I (2006-2016) | Phase II (2017-2024) | Interpretation |
 | :--- | :---: | :---: | :---: | :--- |
-| **TMP-SMX (Mix)** | $r = -0.15$ ($p=0.53$) | **$r = 0.85$** (Strong) | $r = 0.51$ (Moderate) | **Clear Decoupling.** Shift from strong co-selection to weakened association. |
-| **Trimethoprim** | $r = -0.42$ ($p=0.07$) | $r = 0.20$ (Weak) | $r = 0.34$ (Weak) | Consistently weak correlation. |
-| **Sulfamides** | **$r = 0.51$** ($p=0.03$*) | $r = 0.44$ (Moderate) | $r = 0.30$ (Weak) | Historically significant driver, but influence is fading. |
+| **TMP-SMX (Mix)** | r = -0.15 (p=0.53) | **r = 0.85** (Strong) | r = 0.51 (Moderate) | **Clear Decoupling.** Shift from strong co-selection to weakened association. |
+| **Trimethoprim** | r = -0.42 (p=0.07) | r = 0.20 (Weak) | r = 0.34 (Weak) | Consistently weak correlation. |
+| **Sulfamides** | **r = 0.51** (p=0.03*) | r = 0.44 (Moderate) | r = 0.30 (Weak) | Historically significant driver, but influence is fading. |
 
 #### 1. Phase I: The "Plasmid Era" (2006-2016)
 * **Correlation ($r$): 0.85** (Strong Positive)
@@ -95,7 +95,7 @@ To quantify the impact of the mechanism shift, we analyzed the Coefficient of De
 ### Decoupling of Resistance Trends
 The following plot illustrates the divergence of resistance trends. Note the shift from parallel trends (Phase I) to independent fluctuations (Phase II).
 
-![Trend Decoupling Analysis](plots/trend_decoupling_analysis.png)
+![Trend Decoupling Analysis](plots/trend_decoupling_analysis.jpg)
 
 ---
 

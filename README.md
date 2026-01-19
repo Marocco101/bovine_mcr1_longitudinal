@@ -107,7 +107,7 @@ To quantify the impact of the mechanism shift, we analyzed the Coefficient of De
 ### Decoupling of Resistance Trends
 The following plot illustrates the divergence of resistance trends. Note the shift from parallel trends (Phase I) to independent fluctuations (Phase II).
 
-![Trend Decoupling Analysis](trend_decoupling_analysis.jpg)
+![Trend Decoupling Analysis](trend_decoupling_analysis_ab.jpg)
 
 ---
 
